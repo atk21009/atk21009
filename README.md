@@ -1,16 +1,22 @@
-### Hi there 👋
+# Taylor A
 
-<!--
-**atk21009/atk21009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently enrolled in college studying Computer Science. Programming for 5+ years and have a strong understanding of various programming languages. Currently learning more programming languages. 
 
-Here are some ideas to get you started:
+Programming languages  
+- HTML
+- CSS
+- Python
+- JavaScript
+- Swift
+- PHP
+- React
+- C#
+- Clojure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creating websites, IOS applications and other projects. 
+
+# Socials 
+- [LinkedIn](https://www.linkedin.com/in/taylor-atkin-2a3b62222/)
+- [Indeed](https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage)
+- [Resume](https://github.com/tja58/tja58/blob/main/Resume.pdf)
+- [Github](https://github.com/tja58)
